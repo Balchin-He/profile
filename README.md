@@ -53,7 +53,6 @@ Passionate and results-driven software developer with solid expertise in Interne
         <br>Node.js
     </td>
 </tr>
-
 <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
@@ -72,8 +71,8 @@ Passionate and results-driven software developer with solid expertise in Interne
         <br>Firebase
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-        <br>AWS
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="Nginx" />
+        <br>Nginx
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
