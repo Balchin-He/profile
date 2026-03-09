@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-Passionate and results-driven software developer with expertise in machine learning, deep learning, and NLP. Proficient in Python, C, C++, and Java, with hands-on experience in web and app development. Strong analytical and problem-solving skills, with a keen eye for detail and efficiency in fast-paced environments. Reliable, meticulous, and proactive in diagnosing issues and developing innovative solutions.
+Passionate and results-driven software developer with solid expertise in Internet of Things (IoT) technologies, proficient in Python and Java, with hands-on experience in web and app development. Strong analytical and problem-solving skills, with a keen eye for detail and efficiency in fast-paced environments. Reliable, meticulous, and proactive in diagnosing issues and developing innovative solutions.
 
 <div align="center">
   <a href="mailto:amrithesh23@gmail.com">
