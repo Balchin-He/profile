@@ -19,11 +19,8 @@
 Passionate and results-driven software developer with solid expertise in Internet of Things (IoT) technologies, proficient in Python and Java, with hands-on experience in web and app development. Strong analytical and problem-solving skills, with a keen eye for detail and efficiency in fast-paced environments. Reliable, meticulous, and proactive in diagnosing issues and developing innovative solutions.
 
 <div align="center">
-  <a href="mailto:amrithesh23@gmail.com">
+  <a href="mailto:tomoon@aliyun.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/amrithesh-s-menon-1a2b86277/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
