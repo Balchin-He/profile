@@ -84,9 +84,7 @@ Passionate and results-driven software developer with solid expertise in Interne
 ## 🔥 Specializations
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-DD0031?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Deep Learning"/>
-  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=dialogflow&logoColor=white" alt="NLP"/>
+  <img src="https://img.shields.io/badge/IoT-4285F4?style=for-the-badge&logo=dialogflow&logoColor=white" alt="IoT"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-5C2D91?style=for-the-badge&logo=OpenCV&logoColor=white" alt="Computer Vision"/>
   <img src="https://img.shields.io/badge/Web%20Development-3DDC84?style=for-the-badge&logo=react&logoColor=white" alt="Web Development"/>
   <img src="https://img.shields.io/badge/App%20Development-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="App Development"/>
@@ -95,8 +93,7 @@ Passionate and results-driven software developer with solid expertise in Interne
 
 ## ⚡ Current Focus
 
-- Exploring advanced applications of NLP and transformer models
-- Building scalable ML pipelines for production environments
+- Mastering IoT (Internet of Things) technologies
 - Contributing to open-source AI/ML projects
 - Developing innovative solutions using computer vision
 
